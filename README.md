@@ -36,7 +36,7 @@
 
 `$ git clone https://github.com/THCmaniac/maniascraper`
 
-`$ cd Telegram-Scraper-Adder`
+`$ cd maniascraper`
 
 * Install requierments & Setup Configuration File. ( apiID, apiHash )
 
